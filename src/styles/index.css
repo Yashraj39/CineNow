@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+  @apply font-sans;
+}
+
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: #292b3f;
+  color: white;
+}
