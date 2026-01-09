@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "name": "PVR Cinemas: VR Surat",
+    "image": "images/pvr.avif",
+    "icons": ["images/fnb.webp", "images/m-ticket.webp"],
+    "times": ["5:00 PM", "6:30 PM", "9:00 PM"]
+  },
+  {
+    "id": 4,
+    "name": "INOX: VR Surat",
+    "image": "images/inox.avif",
+    "icons": ["images/fnb.webp", "images/m-ticket.webp"],
+    "times": ["4:00 PM", "7:00 PM"]
+  },
+  {
+    "id": 6,
+    "name": "Cinezza Multiplex: Maharaja Farm, Mota Varachha",
+    "image": "images/cinezza.avif",
+    "icons": ["images/fnb.webp", "images/m-ticket.webp"],
+    "times": ["4:30 PM", "8:30 PM"]
+  }
+]
